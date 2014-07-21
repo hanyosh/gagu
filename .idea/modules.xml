@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gagu.iml" filepath="$PROJECT_DIR$/gagu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gagu-beans/gagu-beans.iml" filepath="$PROJECT_DIR$/gagu-beans/gagu-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gagu-core/gagu-core.iml" filepath="$PROJECT_DIR$/gagu-core/gagu-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gagu-example/gagu-example.iml" filepath="$PROJECT_DIR$/gagu-example/gagu-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gagu-web/gagu-web.iml" filepath="$PROJECT_DIR$/gagu-web/gagu-web.iml" />
+    </modules>
+  </component>
+</project>
+

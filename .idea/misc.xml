@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="IdProvider" IDEtalkID="1CCBB8E44F6A9D15EADF0B06B2763705" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/gagu-core/pom.xml" />
+        <option value="$PROJECT_DIR$/gagu-example/pom.xml" />
+        <option value="$PROJECT_DIR$/gagu-web/pom.xml" />
+        <option value="$PROJECT_DIR$/gagu-beans/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" project-jdk-name="1.6" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
+
