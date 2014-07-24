@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gagu-example:war">
+    <output-path>$PROJECT_DIR$/gagu-example/target</output-path>
+    <root id="archive" name="gagu-example.war">
+      <element id="artifact" artifact-name="gagu-example:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="gagu-example:war exploded">
+    <output-path>$PROJECT_DIR$/gagu-example/target/gagu-example</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="gagu-example/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="gagu-example" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
