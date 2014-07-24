@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="EntryPointsManager">
+    <entry_points version="2.0" />
+  </component>
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/gagu-example" />
+  </component>
   <component name="IdProvider" IDEtalkID="1CCBB8E44F6A9D15EADF0B06B2763705" />
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/gagu-core/pom.xml" />
-        <option value="$PROJECT_DIR$/gagu-example/pom.xml" />
         <option value="$PROJECT_DIR$/gagu-web/pom.xml" />
         <option value="$PROJECT_DIR$/gagu-beans/pom.xml" />
+        <option value="$PROJECT_DIR$/gagu-example/pom.xml" />
       </list>
     </option>
   </component>

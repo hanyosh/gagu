@@ -7,6 +7,9 @@
         <element id="directory" name="classes">
           <element id="module-output" name="gagu-example" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.github:gagu:1.0-SNAPSHOT" />
+        </element>
       </element>
     </root>
   </artifact>
