@@ -98,6 +98,7 @@
                 <version>2.5</version>
                 <configuration>
                     <updateReleaseInfo>true</updateReleaseInfo>
+                    <altDeploymentRepository>hanyosh-releases-repo::default::https://github.com/hanyosh/hanyosh-repo/raw/master/releases</altDeploymentRepository>
                 </configuration>
             </plugin>
 
@@ -110,10 +111,10 @@
             <id>hanyosh-releases-repo</id>
             <url>https://github.com/hanyosh/hanyosh-repo/raw/master/releases</url>
         </repository>
-        <snapshotRepository>
-            <id>hanyosh-snapshot-repo</id>
-            <url>https://github.com/hanyosh/hanyosh-repo/raw/master/snapshots</url>
-        </snapshotRepository>
+        <!--<snapshotRepository>-->
+            <!--<id>hanyosh-snapshot-repo</id>-->
+            <!--<url>https://github.com/hanyosh/hanyosh-repo/raw/master/snapshots</url>-->
+        <!--</snapshotRepository>-->
     </distributionManagement>
 
 </project>
