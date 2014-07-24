@@ -13,11 +13,7 @@
     <artifactId>gagu-web</artifactId>
     <version>1.0-SNAPSHOT</version>
     <dependencies>
-        <dependency>
-            <groupId>com.github</groupId>
-            <artifactId>gagu-core</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
+
     </dependencies>
 
 </project>
