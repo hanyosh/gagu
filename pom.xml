@@ -106,14 +106,14 @@
     </build>
 
     <distributionManagement>
-        <!--<repository>-->
-            <!--<id>gagu.repo</id>-->
-            <!--<url>https://github.com/cemerick/cemerick-mvn-repo/raw/master/releases</url>-->
-        <!--</repository>-->
-        <!--<snapshotRepository>-->
-            <!--<id>snapshot-repo</id>-->
-            <!--<url>https://github.com/cemerick/cemerick-mvn-repo/raw/master/snapshots</url>-->
-        <!--</snapshotRepository>-->
+        <repository>
+            <id>hanyosh-releases-repo</id>
+            <url>https://github.com/hanyosh/hanyosh-repo/master/releases</url>
+        </repository>
+        <snapshotRepository>
+            <id>hanyosh-snapshot-repo</id>
+            <url>https://github.com/hanyosh/hanyosh-repo/master/snapshots</url>
+        </snapshotRepository>
     </distributionManagement>
 
 </project>
