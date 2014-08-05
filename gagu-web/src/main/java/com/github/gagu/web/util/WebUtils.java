@@ -16,11 +16,10 @@
 
 package com.github.gagu.web.util;
 
-
-import com.github.gagu.util.Assert;
-import com.github.gagu.util.LinkedMultiValueMap;
-import com.github.gagu.util.MultiValueMap;
-import com.github.gagu.util.StringUtils;
+import com.github.gagu.core.util.Assert;
+import com.github.gagu.core.util.LinkedMultiValueMap;
+import com.github.gagu.core.util.MultiValueMap;
+import com.github.gagu.core.util.StringUtils;
 
 import javax.servlet.*;
 import javax.servlet.http.Cookie;

@@ -16,6 +16,10 @@
 
 package com.github.gagu.web.util;
 
+
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
+
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
 
@@ -36,9 +40,11 @@ import javax.servlet.ServletContextListener;
  * Author: yong.han
  * Date: 14-7-24
  * Time: 下午3:53
+ *
+ * @author hanyosh
  */
 public class Log4jConfigListener implements ServletContextListener {
-
+	static final Log logger = LogFactory.getLog(Log4jConfigListener.class);
 	@Override
 	public void contextInitialized(ServletContextEvent event) {
 		Log4jWebConfigurer.initLogging(event.getServletContext());

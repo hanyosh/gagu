@@ -28,8 +28,9 @@
         <module name="gagu-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.6">
       <module name="gagu" target="1.6" />
+      <module name="gagu-beans" target="1.6" />
       <module name="gagu-core" target="1.6" />
       <module name="gagu-example" target="1.6" />
       <module name="gagu-web" target="1.6" />

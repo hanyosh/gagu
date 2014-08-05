@@ -16,9 +16,11 @@
 
 package com.github.gagu.web.util;
 
-import com.github.gagu.util.Log4jConfigurer;
-import com.github.gagu.util.ResourceUtils;
-import com.github.gagu.util.StringUtils;
+import com.github.gagu.core.util.Log4jConfigurer;
+import com.github.gagu.core.util.ResourceUtils;
+import com.github.gagu.core.util.StringUtils;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 
 import javax.servlet.ServletContext;
 import java.io.FileNotFoundException;
@@ -95,6 +97,8 @@ import java.io.FileNotFoundException;
  * @author hanyosh
  */
 public abstract class Log4jWebConfigurer {
+	public static final Log logger = LogFactory.getLog(Log4jWebConfigurer.class);
+
 	/** Parameter specifying the location of the log4j config file */
 	public static final String CONFIG_LOCATION_PARAM = "log4jConfigLocation";
 
@@ -117,7 +121,13 @@ public abstract class Log4jWebConfigurer {
 		}
 
 		// Only perform custom log4j initialization in case of a config file.
+		// e.g. "/WEB-INF/config/log4j.properties"
 		String location = servletContext.getInitParameter(CONFIG_LOCATION_PARAM);
+		//TODO load default log4j.xml specified
+		if (StringUtils.isEmpty(location)) {
+			location = "framework-log4j.xml";
+		}
+
 		if (location != null) {
 			// Perform actual log4j initialization; else rely on log4j's default initialization.
 			try {
@@ -126,8 +136,8 @@ public abstract class Log4jWebConfigurer {
 
 				// Leave a URL (e.g. "classpath:" or "file:") as-is.
 				if (!ResourceUtils.isUrl(location)) {
-					// Consider a plain file path as relative to the web
-					// application root directory.
+					// Consider a plain file path as relative to the web application root directory.
+					// e.g. "/Users/hanyosh/git/gagu/gagu-example/target/gagu-example/WEB-INF/config/log4j.properties"
 					location = WebUtils.getRealPath(servletContext, location);
 				}
 

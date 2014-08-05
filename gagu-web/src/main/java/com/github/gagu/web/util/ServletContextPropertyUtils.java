@@ -16,8 +16,9 @@
 
 package com.github.gagu.web.util;
 
-import com.github.gagu.util.PropertyPlaceholderHelper;
-import com.github.gagu.util.SystemPropertyUtils;
+
+import com.github.gagu.core.util.PropertyPlaceholderHelper;
+import com.github.gagu.core.util.SystemPropertyUtils;
 
 import javax.servlet.ServletContext;
 
