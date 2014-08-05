@@ -2,6 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2dcc10-c7c7-4eee-93eb-c6f1f43d3acc" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/gagu-beans-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/exception/GaguExceptionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/exception/GaguIOException.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/AbstractFileResolvingResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/AbstractResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/ClassPathResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/InputStreamSource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/Resource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/support/EncodedResource.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/io/support/PropertiesLoaderUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/property/DefaultPropertiesPersister.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/property/PropertiesPersister.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/Assert.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ClassUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/CollectionUtils$EnumerationIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/CollectionUtils$MultiValueMapAdapter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/CollectionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Entries.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Entry.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$EntryIterator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$EntrySet.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Reference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$ReferenceManager.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$ReferenceType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Restructure.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Segment$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Segment.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$SoftEntryReference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$Task.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$TaskOption.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap$WeakEntryReference.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ConcurrentReferenceHashMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/LinkedMultiValueMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/Log4jConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/MultiValueMap.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ObjectUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/PropertyPlaceholderHelper$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/PropertyPlaceholderHelper$PlaceholderResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/PropertyPlaceholderHelper.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$FieldCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$FieldFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$MethodCallback.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils$MethodFilter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ReflectionUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/ResourceUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/StringUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/SystemPropertyUtils$SystemPropertyPlaceholderResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/core/util/SystemPropertyUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/gagu-core-1.0.0-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/gagu-core-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/context/ContextLoader.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/context/ContextLoaderListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/Log4jConfigListener.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/Log4jWebConfigurer.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/ServletContextPropertyUtils$ServletContextPlaceholderResolver.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/ServletContextPropertyUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/WebUtils.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/gagu-web-1.0.0-SNAPSHOT-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/gagu-web-1.0.0-SNAPSHOT.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/maven-archiver/pom.properties" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gagu.iws" />
@@ -40,11 +115,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log4jWebConfigurer.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Log4jWebConfigurer.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32841328" vertical-offset="1471" max-vertical-offset="2865">
-              <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="1606" max-vertical-offset="2865">
+              <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +130,8 @@
       <file leaf-file-name="Log4jConfigListener.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="382" max-vertical-offset="690">
-              <caret line="46" column="75" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="75" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="705">
+              <caret line="16" column="32" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -72,10 +147,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gagu-example/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="1575">
+            <state vertical-scroll-proportion="0.8339483" vertical-offset="179" max-vertical-offset="1575">
               <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
@@ -1057,12 +1132,12 @@
       <workItem from="1406769149830" duration="2500000" />
       <workItem from="1406816863585" duration="4003000" />
       <workItem from="1406883156022" duration="5655000" />
-      <workItem from="1407202222408" duration="6581000" />
+      <workItem from="1407202222408" duration="7292000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110556000" />
+    <option name="totallyTimeSpent" value="111267000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="22" width="1280" height="715" extended-state="0" />
@@ -1087,10 +1162,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22940226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22940226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44221106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44221106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1548,14 +1623,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/framework-log4j.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/context/ContextLoader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="1869" max-vertical-offset="2700">
@@ -1572,29 +1639,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gagu-example/pom.xml">
+    <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/framework-log4j.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="209" max-vertical-offset="1575">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="435">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="382" max-vertical-offset="690">
-          <caret line="46" column="75" selection-start-line="46" selection-start-column="4" selection-end-line="46" selection-end-column="75" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="705">
+          <caret line="16" column="32" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32841328" vertical-offset="1471" max-vertical-offset="2865">
-          <caret line="118" column="0" selection-start-line="118" selection-start-column="0" selection-end-line="118" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1606" max-vertical-offset="2865">
+          <caret line="127" column="24" selection-start-line="127" selection-start-column="24" selection-end-line="127" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gagu-example/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8339483" vertical-offset="179" max-vertical-offset="1575">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

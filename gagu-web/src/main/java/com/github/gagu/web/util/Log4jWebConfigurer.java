@@ -125,7 +125,7 @@ public abstract class Log4jWebConfigurer {
 		String location = servletContext.getInitParameter(CONFIG_LOCATION_PARAM);
 		//TODO load default log4j.xml specified
 		if (StringUtils.isEmpty(location)) {
-			location = "framework-log4j.xml";
+			location = "com/github/gagu/web/util/framework-log4j.xml";
 		}
 
 		if (location != null) {

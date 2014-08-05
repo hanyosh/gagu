@@ -48,6 +48,7 @@ public class Log4jConfigListener implements ServletContextListener {
 	@Override
 	public void contextInitialized(ServletContextEvent event) {
 		Log4jWebConfigurer.initLogging(event.getServletContext());
+		System.out.println("log4j is ok.");
 	}
 
 	@Override
