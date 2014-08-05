@@ -2,248 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a2dcc10-c7c7-4eee-93eb-c6f1f43d3acc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/AbstractFileResolvingResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/AbstractResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/ClassPathResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/context/ContextLoader.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/context/ContextLoader.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/context/ContextLoaderListener.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/property/DefaultPropertiesPersister.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/support/EncodedResource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/exception/GaguExceptionUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/exception/GaguIOException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/InputStreamSource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_gagu_beans_1_0_SNAPSHOT.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/support/PropertiesLoaderUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/property/PropertiesPersister.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/io/Resource.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-example/src/main/java/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/framework-log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-example/src/main/resources/log/gagu-log4j.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/junitgenerator-prj-settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gagu-example/src/main/resources/log4j.properties" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/artifacts/gagu_example_war_exploded2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/gagu-beans-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/integration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-beans/target/site/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/Assert.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ClassUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/CollectionUtils$EnumerationIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/CollectionUtils$MultiValueMapAdapter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/CollectionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Entries.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Entry.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$EntryIterator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$EntrySet.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Reference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$ReferenceManager.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$ReferenceType.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Restructure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Segment$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Segment.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$SoftEntryReference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$Task.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$TaskOption.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap$WeakEntryReference.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ConcurrentReferenceHashMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/LinkedMultiValueMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/Log4jConfigurer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/MultiValueMap.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ObjectUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/PropertyPlaceholderHelper$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/PropertyPlaceholderHelper$PlaceholderResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/PropertyPlaceholderHelper.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$FieldCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$FieldFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$MethodCallback.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils$MethodFilter.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ReflectionUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/ResourceUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/StringUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/SystemPropertyUtils$SystemPropertyPlaceholderResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/classes/com/github/gagu/util/SystemPropertyUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/gagu-core-1.0-SNAPSHOT-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/gagu-core-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/integration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-core/target/site/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-example/src/main/resources/log/log4j.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-example/target/classes/log/log4j.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-example/target/gagu-example/WEB-INF/classes/log/log4j.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-example/target/gagu-example/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-example/target/gagu-example/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/Log4jConfigListener.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/Log4jWebConfigurer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/ServletContextPropertyUtils$ServletContextPlaceholderResolver.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/ServletContextPropertyUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/classes/com/github/gagu/web/util/WebUtils.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/gagu-web-1.0-SNAPSHOT-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/gagu-web-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/integration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gagu-web/target/site/team-list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/distribution-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/integration.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/issue-tracking.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/license.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/mail-lists.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/modules.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/source-repository.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/team-list.html" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/Assert.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/Assert.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/ClassUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/ClassUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/CollectionUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/CollectionUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/ConcurrentReferenceHashMap.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/ConcurrentReferenceHashMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/LinkedMultiValueMap.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/LinkedMultiValueMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/Log4jConfigurer.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/Log4jConfigurer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/MultiValueMap.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/MultiValueMap.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/ObjectUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/ObjectUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/PropertyPlaceholderHelper.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/PropertyPlaceholderHelper.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/ReflectionUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/ReflectionUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/ResourceUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/ResourceUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/StringUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/StringUtils.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/util/SystemPropertyUtils.java" afterPath="$PROJECT_DIR$/gagu-core/src/main/java/com/github/gagu/core/util/SystemPropertyUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jConfigListener.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/Log4jWebConfigurer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/ServletContextPropertyUtils.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/ServletContextPropertyUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/WebUtils.java" afterPath="$PROJECT_DIR$/gagu-web/src/main/java/com/github/gagu/web/util/WebUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-beans/gagu-beans.iml" afterPath="$PROJECT_DIR$/gagu-beans/gagu-beans.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-core/gagu-core.iml" afterPath="$PROJECT_DIR$/gagu-core/gagu-core.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-example/gagu-example.iml" afterPath="$PROJECT_DIR$/gagu-example/gagu-example.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/gagu-web.iml" afterPath="$PROJECT_DIR$/gagu-web/gagu-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu.iml" afterPath="$PROJECT_DIR$/gagu.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/gagu_example_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/gagu_example_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-beans/pom.xml" afterPath="$PROJECT_DIR$/gagu-beans/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-core/pom.xml" afterPath="$PROJECT_DIR$/gagu-core/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-example/pom.xml" afterPath="$PROJECT_DIR$/gagu-example/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-web/pom.xml" afterPath="$PROJECT_DIR$/gagu-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gagu-example/web/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/gagu-example/web/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="gagu.iws" />
@@ -553,8 +311,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-22" />
-    <option name="y" value="28" />
+    <option name="x" value="-3" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="715" />
   </component>
@@ -1299,15 +1057,15 @@
       <workItem from="1406769149830" duration="2500000" />
       <workItem from="1406816863585" duration="4003000" />
       <workItem from="1406883156022" duration="5655000" />
-      <workItem from="1407202222408" duration="6493000" />
+      <workItem from="1407202222408" duration="6581000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110468000" />
+    <option name="totallyTimeSpent" value="110556000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-22" y="28" width="1280" height="715" extended-state="0" />
+    <frame x="-3" y="22" width="1280" height="715" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1329,10 +1087,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22940226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22940226" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2657512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44221106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44221106" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Tail" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
